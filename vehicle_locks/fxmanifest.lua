@@ -4,7 +4,7 @@ fx_version 'cerulean'
 games { 'gta5' }
 lua54 'yes'
 
-author      'Lyla
+author      'Lyla, Night'
 description 'Personal Vehicle Locks'
 version     '5.3.0'
 
