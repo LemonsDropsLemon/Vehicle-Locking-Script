@@ -9,6 +9,7 @@ Only time it can be overriden, is the car is deleted, re opening the ability for
 ## Locking & Unlocking
 Locking - plays one beep
 unlocking - plays two beeps
+Alarm - PLays a GTA 4 themed vehicle alarm with a timeout of 10 seconds when entering a locked vehicle
 setkeys - plays no sounds just light flashing
 
 All configurable in a "config lua", comes with a small locking icon in the top right that shows when its locked or unlocked, can be disabled in the config.
