@@ -5,7 +5,7 @@ This script hooks onto the first driving inside of a car, and gives them "keys" 
 
 Only time it can be overriden, is the car is deleted, re opening the ability for the driver to claim another unclaimed car, or the useage of "/setkeys" - which has a tripple light flash to easily be seen when it is used.
 
-# All Open Source
+# All Open Source, [Aided from Nights Vehicle Locking Script](https://discord.gg/JtZXfpEyTt)
 
 ## Locking & Unlocking
 ```
