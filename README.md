@@ -11,6 +11,7 @@ Only time it can be overriden, is the car is deleted, re opening the ability for
 ```
 Locking - plays one beep
 unlocking - plays two beeps
+interior locking feature - ability to lock your car whilst inside of it with "G"
 Alarm - PLays a GTA 4 themed vehicle alarm with a timeout of 10 seconds when entering a locked vehicle
 setkeys - plays no sounds just light flashing
 
